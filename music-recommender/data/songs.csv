@@ -1,11 +1,19 @@
-title,genre,mood,energy
-Sunrise Smile,pop,happy,0.82
-Midnight Echo,rock,sad,0.46
-Coffee Rain,lofi,chill,0.28
-Neon Rush,edm,energetic,0.94
-Blue Note Walk,jazz,chill,0.41
-City Lights,pop,energetic,0.76
-Broken Amplifier,rock,energetic,0.88
-Slow Drift,lofi,sad,0.22
-Pulse Horizon,edm,happy,0.91
-Golden Sax,jazz,happy,0.57
+title,genre,mood,energy,tempo_bpm
+Sunrise Smile,pop,happy,0.82,124
+Midnight Echo,rock,sad,0.46,96
+Coffee Rain,lofi,chill,0.28,78
+Neon Rush,edm,energetic,0.94,132
+Blue Note Walk,jazz,chill,0.41,102
+City Lights,pop,energetic,0.76,126
+Broken Amplifier,rock,energetic,0.88,140
+Slow Drift,lofi,sad,0.22,72
+Pulse Horizon,edm,happy,0.91,136
+Golden Sax,jazz,happy,0.57,108
+Velvet Steps,rnb,romantic,0.49,92
+Iron Thunder,metal,intense,0.97,168
+Desert Wind,folk,calm,0.31,84
+Reggae Shore,reggae,happy,0.63,98
+Night Drive,syntwave,nostalgic,0.67,118
+Moonlit Strings,classical,peaceful,0.18,64
+Samba Spark,latin,joyful,0.86,152
+Cloud Parade,indie,dreamy,0.44,110

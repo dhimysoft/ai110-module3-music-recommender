@@ -1,0 +1,134 @@
+Loaded songs: 18
+
+==============================
+Profile: High-Energy Pop
+User Profile: {'genre': 'pop', 'mood': 'happy', 'energy': 0.7}
+
+Top Recommendations:
+
+----------------------------------------
+1. Sunrise Smile -- Score: 2.88
+   Reasons: genre match (+1.0), mood match (+1.0), similar energy (+0.9)
+----------------------------------------
+2. City Lights -- Score: 1.94
+   Reasons: genre match (+1.0), similar energy (+0.9)
+----------------------------------------
+3. Reggae Shore -- Score: 1.93
+   Reasons: mood match (+1.0), similar energy (+0.9)
+----------------------------------------
+4. Golden Sax -- Score: 1.87
+   Reasons: mood match (+1.0), similar energy (+0.9)
+----------------------------------------
+5. Pulse Horizon -- Score: 1.79
+   Reasons: mood match (+1.0), similar energy (+0.8)
+
+==============================
+Profile: Chill Lofi
+User Profile: {'genre': 'lofi', 'mood': 'chill', 'energy': 0.2}
+
+Top Recommendations:
+
+----------------------------------------
+1. Coffee Rain -- Score: 2.92
+   Reasons: genre match (+1.0), mood match (+1.0), similar energy (+0.9)
+----------------------------------------
+2. Slow Drift -- Score: 1.98
+   Reasons: genre match (+1.0), similar energy (+1.0)
+----------------------------------------
+3. Blue Note Walk -- Score: 1.79
+   Reasons: mood match (+1.0), similar energy (+0.8)
+----------------------------------------
+4. Moonlit Strings -- Score: 0.98
+   Reasons: similar energy (+1.0)
+----------------------------------------
+5. Desert Wind -- Score: 0.89
+   Reasons: similar energy (+0.9)
+
+==============================
+Profile: Deep Intense Rock
+User Profile: {'genre': 'rock', 'mood': 'intense', 'energy': 0.9}
+
+Top Recommendations:
+
+----------------------------------------
+1. Broken Amplifier -- Score: 1.98
+   Reasons: genre match (+1.0), similar energy (+1.0)
+----------------------------------------
+2. Iron Thunder -- Score: 1.93
+   Reasons: mood match (+1.0), similar energy (+0.9)
+----------------------------------------
+3. Midnight Echo -- Score: 1.56
+   Reasons: genre match (+1.0), similar energy (+0.6)
+----------------------------------------
+4. Pulse Horizon -- Score: 0.99
+   Reasons: similar energy (+1.0)
+----------------------------------------
+5. Neon Rush -- Score: 0.96
+   Reasons: similar energy (+1.0)
+
+==============================
+Profile: Adversarial: High energy + sad
+User Profile: {'genre': 'edm', 'mood': 'sad', 'energy': 0.95}
+
+Top Recommendations:
+
+----------------------------------------
+1. Neon Rush -- Score: 1.99
+   Reasons: genre match (+1.0), similar energy (+1.0)
+----------------------------------------
+2. Pulse Horizon -- Score: 1.96
+   Reasons: genre match (+1.0), similar energy (+1.0)
+----------------------------------------
+3. Midnight Echo -- Score: 1.51
+   Reasons: mood match (+1.0), similar energy (+0.5)
+----------------------------------------
+4. Slow Drift -- Score: 1.27
+   Reasons: mood match (+1.0), similar energy (+0.3)
+----------------------------------------
+5. Iron Thunder -- Score: 0.98
+   Reasons: similar energy (+1.0)
+
+==============================
+Profile: Adversarial: Unknown genre
+User Profile: {'genre': 'opera', 'mood': 'happy', 'energy': 0.4}
+
+Top Recommendations:
+
+----------------------------------------
+1. Golden Sax -- Score: 1.83
+   Reasons: mood match (+1.0), similar energy (+0.8)
+----------------------------------------
+2. Reggae Shore -- Score: 1.77
+   Reasons: mood match (+1.0), similar energy (+0.8)
+----------------------------------------
+3. Sunrise Smile -- Score: 1.58
+   Reasons: mood match (+1.0), similar energy (+0.6)
+----------------------------------------
+4. Pulse Horizon -- Score: 1.49
+   Reasons: mood match (+1.0), similar energy (+0.5)
+----------------------------------------
+5. Blue Note Walk -- Score: 0.99
+   Reasons: similar energy (+1.0)
+
+==============================
+EXPERIMENT RUN (energy-focused weights)
+Profile: Experiment: Energy-Focused Pop
+User Profile: {'genre': 'pop', 'mood': 'happy', 'energy': 0.7}
+
+Top Recommendations:
+
+----------------------------------------
+1. Sunrise Smile -- Score: 3.26
+   Reasons: genre match (+0.5), mood match (+1.0), similar energy (+1.8)
+----------------------------------------
+2. Reggae Shore -- Score: 2.86
+   Reasons: mood match (+1.0), similar energy (+1.9)
+----------------------------------------
+3. Golden Sax -- Score: 2.74
+   Reasons: mood match (+1.0), similar energy (+1.7)
+----------------------------------------
+4. Pulse Horizon -- Score: 2.58
+   Reasons: mood match (+1.0), similar energy (+1.6)
+----------------------------------------
+5. City Lights -- Score: 2.38
+   Reasons: genre match (+0.5), similar energy (+1.9)
