@@ -98,18 +98,18 @@ Result:
 
 Generated from the actual run output of python -m src.main:
 
-![Profile 1](assets/screenshots/profile_01.png)
-![Profile 2](assets/screenshots/profile_02.png)
-![Profile 3](assets/screenshots/profile_03.png)
-![Profile 4](assets/screenshots/profile_04.png)
-![Profile 5](assets/screenshots/profile_05.png)
-![Experiment](assets/screenshots/profile_06.png)
+![High-Energy Pop](assets/screenshots/01-high-energy-pop.png)
+![Chill Lofi](assets/screenshots/02-chill-lofi.png)
+![Deep Intense Rock](assets/screenshots/03-deep-intense-rock.png)
+![High Energy Plus Sad](assets/screenshots/04-high-energy-sad.png)
+![Unknown Genre](assets/screenshots/05-unknown-genre.png)
+![Experiment Run](assets/screenshots/06-experiment-run.png)
 
 Raw output artifact: evaluation_output.txt
 
 ## Run
 
 ```bash
-cd music-recommender
+cd /Users/dhimyjean/Visual\ Studio\ Projects/music-recommendar
 python -m src.main
 ```
